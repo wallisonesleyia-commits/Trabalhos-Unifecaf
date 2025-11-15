@@ -44,10 +44,10 @@ Se uma peça falhar em *qualquer* um dos critérios, ela é marcada como **REPRO
 
    *(Ou baixe o ZIP e extraia os arquivos)*  
 2. **Navegue até a pasta do projeto:**  
-   cd seu-repositorio
+   trabalhos-unifecaf
 
 3. **Execute o script Python:**  
-   * (Assumindo que o arquivo se chama main.py ou similar)
+   * (controle de produção.py)
 
 python main.py
 
